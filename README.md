@@ -7,7 +7,9 @@ The Organisation for Economic Co-operation and Development is creating a departm
 
 Now, they provide you with the dataset ( World Economic Indicator Dataset), which has different countries and regions' GDP, population, and other factors that might impact GDP/Capita. Using Data Analysis methods, develop a solution that can be referred to as "how a country can attain sustainable growth ".
 
-Tools and Techniques:
+
+
+# Tools and Techniques:
 Advanced Excel
 FORMATTING AND DATA PROCESSING
 Data Cleaning
