@@ -11,9 +11,16 @@ Now, they provide you with the dataset ( World Economic Indicator Dataset), whic
 
 # Tools and Techniques:
 Advanced Excel
+
 FORMATTING AND DATA PROCESSING
+
 Data Cleaning
+
 Univariate Analysis
+
 Bivariate Analysis
+
 Data Analysis
+
 Data Visualization
+
